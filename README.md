@@ -2,7 +2,7 @@
 - 🖥 Team Lead at Ciklum 
 - 📖 Expert in .NET, Web API, microservices, software architecture, Angular, React, NextJS, Azure, SQL, NoSQL
 - 👨‍💼 My dayly job consist of designing system components, writing architecture documents, writing back-end code
-- 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 read my blog here: [alexpavlov.dev](https://alexpavlov.dev)
+- 🌐 You can read my blog here: [alexpavlov.dev](https://alexpavlov.dev)
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
