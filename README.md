@@ -1,5 +1,5 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 Team Lead at Ciklum 
+- 🖥 Team Lead at a software company 
 - 📖 Expert in .NET, Web API, microservices, software architecture, Angular, React, NextJS, Azure, SQL, NoSQL
 - 👨‍💼 My dayly job consist of designing system components, writing architecture documents, writing back-end code
 - 🌐 You can read my blog here: [alexpavlov.dev](https://alexpavlov.dev)
