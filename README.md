@@ -9,6 +9,7 @@
   - Working on the [web scraping library](https://github.com/pavlovtech/WebReaper) for easy and declarative web scraping
   - Learning Go
   - Building custom electric scooter and mastering weldering and corresponding electronics
+  - Riding a electric unicycle
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
   - Port my web scraping library to NodeJS and Go
   - Learn Rust programming language
