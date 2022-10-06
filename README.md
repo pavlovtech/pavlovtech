@@ -3,7 +3,7 @@
 - 📖 Expert in .NET, Web API, microservices, software architecture, Angular, React, NextJS, Azure, SQL, NoSQL
 - 👨‍💼 My dayly job consists of designing system components, writing architecture documents, writing back-end code
 - 🌐 You can read my blog here: [alexpavlov.dev](https://alexpavlov.dev)
-- Programmer's garage youtube channel (https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://www.youtube.com/channel/UCQKfggAbs64UVqiacXOgjGg)
+- Programmer's garage youtube channel [(https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://www.youtube.com/channel/UCQKfggAbs64UVqiacXOgjGg)
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
