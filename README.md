@@ -1,4 +1,4 @@
-# Hi there!
+# Hey friends!
 
 - 🔭 I’m Alex Pavlov
 - ⚡ I have 10+ years of experience in Software Engineering
