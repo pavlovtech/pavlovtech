@@ -1,6 +1,7 @@
 # Hi there!
 
 - 🔭 I’m Alex Pavlov
+- ⚡ I have 10+ years of experience in Software Engineering
 - 📖 I'm an expert in .NET, RESTful services, software architecture, Angular, React, NextJS, Azure, SQL, NoSQL
 - 🔨 I'm working on the [web scraping library](https://github.com/pavlovtech/WebReaper) for easy and declarative web scraping
 - 🤔 My blog is here: [alexpavlov.dev](https://alexpavlov.dev)
