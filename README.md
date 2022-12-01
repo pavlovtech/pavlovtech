@@ -33,7 +33,7 @@
 <br>
 <br>
 
-<img align='left' height='160' style="margin-left:20px" src='assets/programmer.gif' alt='Skills'>
+<img align='left' height='160' style="margin-left:20px" src='programmer.gif' alt='Skills'>
 
 <br>
 <h2>Skills</h2>
