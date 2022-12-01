@@ -23,11 +23,32 @@
   
 </div>
 
- <br>
+<br>
  <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavlovtech&layout=compact&hide=html&theme=dracula"/>
- 
-  
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavlovtech&layout=compact&hide=html&theme=dracula"/> 
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=pavlovtech&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
-  </P><br>
+</p><br>
+
+
+<br>
+<br>
+
+<img align='left' height='160' style="margin-left:20px" src='assets/programmer.gif' alt='Skills'>
+
+<br>
+<h2>Skills</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,react,html,css,js,ts,bootstrap,androidstudio,arduino,bash,linux" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,mysql,sqlite,c,cpp,java,github,wordpress,ae,ps,pr" />
+  </a>
+</p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
+
   
