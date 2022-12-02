@@ -40,12 +40,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,azure,js,ts,docker,mongodb,nextjs,react,redis,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,azure,js,ts,docker,mongodb,nextjs,redis" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cloudflare,css,ps,linux,nodejs,cpp,kubernetes,github,go,git,flask,electron" />
+    <img src="https://skillicons.dev/icons?i=git,nodejs,react,css,ps,linux,kubernetes,github,electron,bootstrap" />
   </a>
 </p>
 
