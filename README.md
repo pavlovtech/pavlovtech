@@ -40,7 +40,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,azure,bootstrap,cs,dotnet,docker,js,mongodb,nextjs,react,redis,ts" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,azure,js,ts,docker,mongodb,nextjs,react,redis,bootstrap" />
   </a>
 </p>
 <p align="center">
