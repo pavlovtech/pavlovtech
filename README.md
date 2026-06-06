@@ -1,6 +1,6 @@
 # Hey, I’m Alex Pavlov 👋
 
-I’m a software engineer with 11+ years of experience building web applications, cloud systems, and practical automation tools.
+I’m a software engineer with 12+ years of experience building web applications, cloud systems, and practical automation tools.
 
 My current focus is healthcare, telemedicine, and AI-powered workflow automation, especially systems that help clinics, providers, and service businesses reduce manual work and improve daily operations.
 
