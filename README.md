@@ -1,4 +1,4 @@
-# Hey, I’m Alex Pavlov 👋
+# Hey, I’m Alex 👋
 
 I’m a software engineer with 12+ years of experience building web applications, cloud systems, and practical automation tools.
 
